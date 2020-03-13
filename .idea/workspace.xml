@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21b9a1e5-354e-4521-8cbd-d26db155bbf4" name="Default Changelist" comment="" />
+    <list default="true" id="21b9a1e5-354e-4521-8cbd-d26db155bbf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller/PaysController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/PaysController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,9 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="MTO-PTO" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -129,6 +136,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1YiZK1yzrFWmzwqyJ4H4gSC4CpV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -136,9 +144,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowFavorites.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Mes Sites Web/dashbordAdmin" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -151,7 +160,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583427307694</updated>
       <workItem from="1583427309189" duration="861000" />
-      <workItem from="1583481843384" duration="26961000" />
+      <workItem from="1583481843384" duration="27560000" />
+      <workItem from="1583741959317" duration="2889000" />
     </task>
     <servers />
   </component>
